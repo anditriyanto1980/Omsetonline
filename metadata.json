@@ -1,0 +1,6 @@
+{
+  "name": "LiveStream Income & Target Tracker",
+  "description": "Aplikasi pencatatan penghasilan live streamer harian, rekap total bulanan per kreator, grafik tren berkala, notifikasi target mingguan, dan ekspor laporan PDF/Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
